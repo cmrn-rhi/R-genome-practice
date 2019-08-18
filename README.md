@@ -17,3 +17,32 @@ RStudio v1.2.1335 </h2>
 		Function: getncbiseq
 		# retrieve sequence from NCBI via accession number
 		# store as vector variable using "variablename <- getncbiseq("accession_num")
+
+* **notes**
+
+    My notes on functions used to manipulate the data obtained from get-ncbi-seq.R.
+
+* **NC_001477-1.fasta**
+
+    Dengue virus (DEN-1) fasta obtained manually from NCBI.
+
+* **NC_001477-1.url**
+
+    Link to Dengue virus (DEN-1) on NCBI.
+
+* **den1.fasta**
+
+    Dengue virus (DEN-1) fasta obtained using get-ncbi-seq.R.
+    
+* **denguetable.csv**
+
+    Table of theoretical occurences of DNA "Words" (codons) of length 3. Includes overlapping and non-existant codons. Rows labeled.
+    
+* **denguetable2.csv**
+
+    Table of theoretical occurences of DNA "Words" (codons) of length 3. Includes overlapping and non-existant codons. Row labels removed.
+    
+* **denguetable.Rdmpd**
+
+    Table of theoretical occurences of DNA "Words" (codons) of length 3. Includes overlapping and non-existant codons. Stored such that special attributes of data structures are preserved.
+    
