@@ -18,7 +18,7 @@ RStudio v1.2.1335 </h2>
 		# retrieve sequence from NCBI via accession number
 		# store as vector variable using "variablename <- getncbiseq("accession_num")
 
-* **notes**
+* **notes.md**
 
     My notes on functions used to manipulate the data obtained from get-ncbi-seq.R.
 
