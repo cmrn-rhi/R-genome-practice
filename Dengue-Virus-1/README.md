@@ -1,5 +1,3 @@
-# ReadMe
-
 <h2> R 3.6.1
 
 RStudio v1.2.1335 </h2>
