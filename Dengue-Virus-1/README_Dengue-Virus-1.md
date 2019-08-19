@@ -1,5 +1,8 @@
+<<<<<<< HEAD:Dengue-Virus-1/README.md
 # Dengue Virus 1
 
+=======
+>>>>>>> 932d5787bdf0cc913537d5eeb44db7bf07435b82:Dengue-Virus-1/README_Dengue-Virus-1.md
 <h2> R 3.6.1
 
 RStudio v1.2.1335 </h2>
